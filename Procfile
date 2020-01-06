@@ -1,1 +1,0 @@
-web: gunicorn HiringSalaryApp:app
